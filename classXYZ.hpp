@@ -64,7 +64,7 @@ class Cinco_numeros_pares: public Observer_Strategy
                     << var2 << " ; " 
                     << var3 << " ; "
                     << var4 << " ; "
-                    << var5 <<" -> "<< "entonces el ganador será el jugador con la estrategia "Cinco numeros pares" "<<std::endl;           
+                    << var5 <<" -> "<< "entonces el ganador será el jugador con la estrategia Cinco numeros pares "<<std::endl;           
         }
 };
 
@@ -100,7 +100,7 @@ class Cinco_numeros_impares: public Observer_Strategy
                     << var2 << " ; " 
                     << var3 << " ; "
                     << var4 << " ; "
-                    << var5 <<" -> "<< "entonces el ganador será el jugador con la estrategia "Cinco numeros impares" "<<std::endl;           
+                    << var5 <<" -> "<< "entonces el ganador será el jugador con la estrategia Cinco numeros impares "<<std::endl;           
         }
 };
 
@@ -131,7 +131,7 @@ class Un_numero_primo: public Observer_Strategy
                     << var2 << " ; " 
                     << var3 << " ; "
                     << var4 << " ; "
-                    << var5 <<" -> "<< "entonces el ganador será el jugador con la estrategia "Un_numero_primo" "<<std::endl;           
+                    << var5 <<" -> "<< "entonces el ganador será el jugador con la estrategia Un_numero_primo "<<std::endl;           
         }
 
 };
@@ -162,7 +162,7 @@ class Tres_numeros_multiplos_de_10: public Observer_Strategy
                     << var2 << " ; " 
                     << var3 << " ; "
                     << var4 << " ; "
-                    << var5 <<" -> "<< "entonces el ganador será el jugador con la estrategia "Tres_numeros_multiplos_de_10" "<<std::endl;           
+                    << var5 <<" -> "<< "entonces el ganador será el jugador con la estrategia Tres_numeros_multiplos_de_10 "<<std::endl;           
         }
 
 };
@@ -193,7 +193,7 @@ class Dos_numeros_multiplos_de_25: public Observer_Strategy
                     << var2 << " ; " 
                     << var3 << " ; "
                     << var4 << " ; "
-                    << var5 <<" -> "<< "entonces el ganador será el jugador con la estrategia "Dos_numeros_multiplos_de_25" "<<std::endl;           
+                    << var5 <<" -> "<< "entonces el ganador será el jugador con la estrategia Dos_numeros_multiplos_de_25 "<<std::endl;           
         }
 
 };
